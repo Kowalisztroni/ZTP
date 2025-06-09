@@ -1,0 +1,3 @@
+D:/kowalski_267671_ztp/lista6-STACK/cmake-build-debug/CMakeFiles/main.dir
+D:/kowalski_267671_ztp/lista6-STACK/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/kowalski_267671_ztp/lista6-STACK/cmake-build-debug/CMakeFiles/rebuild_cache.dir

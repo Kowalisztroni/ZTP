@@ -1,0 +1,2 @@
+#define W08sensors_VERSION_MAJOR @W08sensors_VERSION_MAJOR@
+#define W08sensors_VERSION_MINOR @W08sensors_VERSION_MINOR@
